@@ -16,11 +16,11 @@ public class AulaTriangulo {
         System.out.println("Valor do cateto 1 do t2: " + t2.getC1());
 
         
-        System.out.println("Área do t1: " + t1.calculaArea());
+        System.out.println("Area do t1: " + t1.calculaArea());
         System.out.println("Hipotenusa do t1: " + t1.calculahipotenusa());
 
         
-        System.out.println("Área do t2: " + t2.calculaArea());
+        System.out.println("Area do t2: " + t2.calculaArea());
         System.out.println("Hipotenusa do t2: " + t2.calculahipotenusa());
     }
 }
